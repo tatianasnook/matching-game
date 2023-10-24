@@ -1,0 +1,32 @@
+body{
+      font-family: 'Poppins', sans-serif;
+      background-color: mediumspringgreen;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    main{
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+    img {
+      position: absolute;
+    }
+    div{
+      position: relative;
+      width: 500px;
+      height: 450px;
+
+    }
+    #rightSide{
+      border-left: 1px solid;
+    }
+    #btn{
+      background-color: #feff00;
+      text-transform: uppercase;
+      border: 2px solid black;
+      font-weight: bold;
+      border-radius: 3px;
+    }
+    
